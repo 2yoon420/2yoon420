@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+----------
 
 I'm 20 years old and lived in chunchon in 20years.
 my brithday is 20th on April.
