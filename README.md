@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome my repository !~
 
 <!--
 **2yoon420/2yoon420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm 20 years old and lived in chunchon in 20years.
